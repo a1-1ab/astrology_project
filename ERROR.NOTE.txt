@@ -1,0 +1,8 @@
+// tailwind.config.ts
+Module '"typescript"' has no exported member 'Config'. (LINE 2)
+
+
+// src/lib/astro/engine.ts
+Unexpected any. Specify a different type. (LINE 26)
+'data' is declared but its value is never read. (LINE 31)
+
